@@ -1,4 +1,4 @@
-# EnglishWordNet
+# English WordNet
 
 Creates a lexical database of English nouns, verbs, adjectives, and adverbs which are then grouped into *synsets*.
 Each element in a synset is connected to all other elements through conceptual-semantic and lexical relations.
